@@ -1,7 +1,7 @@
 n = input()
 l = list(map(int,raw_input().split()))
 li = list(map(int,raw_input().split()))
-s = set(l[1:]+li[1:])
+s = set(l[1:]+li[1:]) # Slicing a python list
 if 0 in s:
 	s.remove(0)
 if len(s) >= n:

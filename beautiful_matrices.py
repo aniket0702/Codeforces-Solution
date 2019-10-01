@@ -1,3 +1,4 @@
+import numpy
 l = []
 for i in range(5):
 	lt = list(map(int,raw_input().split()))

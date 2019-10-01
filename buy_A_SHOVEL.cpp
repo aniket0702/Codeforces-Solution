@@ -11,4 +11,6 @@ int main()
       {printf("%d\n",i );
       break;}
   }
+  //declared for fun
+  string s;
 }

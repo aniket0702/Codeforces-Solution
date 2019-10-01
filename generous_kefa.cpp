@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+  string s="aniket";
   int n,m;
   cin>>n>>m;
   string s;

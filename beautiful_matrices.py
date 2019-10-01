@@ -9,6 +9,6 @@ for i in range(5):
 		if l[i][j] == 1:
 			x = i
 			y = j
-			break
+			
 
 print abs(2-x) + abs(2-y)

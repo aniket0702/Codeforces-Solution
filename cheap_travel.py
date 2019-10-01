@@ -1,4 +1,5 @@
 import math
+import numpy
 n,m,a,b = map(int ,raw_input().split())
 s1 = 0
 s1+= (n/m)*b

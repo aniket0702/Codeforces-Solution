@@ -1,5 +1,5 @@
 n = raw_input()
-x = len(n)
+x = len(n) #a list of size n is initialised with 0
 if n[0] != "-":
 	print n
 else:

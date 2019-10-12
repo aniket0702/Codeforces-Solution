@@ -1,3 +1,4 @@
+import numpy
 n,m= map(int,raw_input().split())
 for i in range(1,n+1):
 	if i%2 == 1:

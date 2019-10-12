@@ -1,3 +1,4 @@
+import numpy
 t= input()
 for _ in range(t):
 	n = input()
